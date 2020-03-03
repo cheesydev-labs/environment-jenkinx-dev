@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:jenkinx/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: bot@cheesy.dev
+  token: vault:jenkinx/pipelineUser:token
+  username: cheesybot
+prow:
+  hmacToken: vault:jenkinx/prow:hmacToken
