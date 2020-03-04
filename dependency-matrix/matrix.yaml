@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: cheesydev
+  repo: go-quickstart-jenkinsx
+  url: https://github.com/cheesydev/go-quickstart-jenkinsx.git
+  version: ""
+  versionURL: ""
